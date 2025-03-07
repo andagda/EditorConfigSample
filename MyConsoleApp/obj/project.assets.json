@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\andagd\\source\\repos\\training\\mySampleDotNet\\MyConsoleApp\\MyConsoleApp.csproj",
-      "projectName": "MyConsoleApp",
-      "projectPath": "C:\\Users\\andagd\\source\\repos\\training\\mySampleDotNet\\MyConsoleApp\\MyConsoleApp.csproj",
+      "projectUniqueName": "C:\\Users\\andagd\\source\\repos\\training\\EditorConfigSample\\myconsoleapp\\myconsoleapp.csproj",
+      "projectName": "myconsoleapp",
+      "projectPath": "C:\\Users\\andagd\\source\\repos\\training\\EditorConfigSample\\myconsoleapp\\myconsoleapp.csproj",
       "packagesPath": "C:\\Users\\andagd\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\andagd\\source\\repos\\training\\mySampleDotNet\\MyConsoleApp\\obj\\",
+      "outputPath": "C:\\Users\\andagd\\source\\repos\\training\\EditorConfigSample\\myconsoleapp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

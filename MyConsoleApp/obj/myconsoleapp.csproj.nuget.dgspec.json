@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\andagd\\source\\repos\\training\\mySampleDotNet\\myconsoleapp\\myconsoleapp.csproj": {}
+    "C:\\Users\\andagd\\source\\repos\\training\\EditorConfigSample\\myconsoleapp\\myconsoleapp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\andagd\\source\\repos\\training\\mySampleDotNet\\myconsoleapp\\myconsoleapp.csproj": {
+    "C:\\Users\\andagd\\source\\repos\\training\\EditorConfigSample\\myconsoleapp\\myconsoleapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andagd\\source\\repos\\training\\mySampleDotNet\\myconsoleapp\\myconsoleapp.csproj",
+        "projectUniqueName": "C:\\Users\\andagd\\source\\repos\\training\\EditorConfigSample\\myconsoleapp\\myconsoleapp.csproj",
         "projectName": "myconsoleapp",
-        "projectPath": "C:\\Users\\andagd\\source\\repos\\training\\mySampleDotNet\\myconsoleapp\\myconsoleapp.csproj",
+        "projectPath": "C:\\Users\\andagd\\source\\repos\\training\\EditorConfigSample\\myconsoleapp\\myconsoleapp.csproj",
         "packagesPath": "C:\\Users\\andagd\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andagd\\source\\repos\\training\\mySampleDotNet\\myconsoleapp\\obj\\",
+        "outputPath": "C:\\Users\\andagd\\source\\repos\\training\\EditorConfigSample\\myconsoleapp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

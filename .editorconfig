@@ -1,3 +1,4 @@
+root = true
 [*.cs]
 # Define what we will treat as local variables
 dotnet_naming_symbols.local_symbol.applicable_kinds = local
