@@ -1,0 +1,11 @@
+C:\Users\andagd\source\repos\training\mySampleDotNet\myclass\bin\Debug\net9.0\MyClass.deps.json
+C:\Users\andagd\source\repos\training\mySampleDotNet\myclass\bin\Debug\net9.0\MyClass.dll
+C:\Users\andagd\source\repos\training\mySampleDotNet\myclass\bin\Debug\net9.0\MyClass.pdb
+C:\Users\andagd\source\repos\training\mySampleDotNet\myclass\obj\Debug\net9.0\MyClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andagd\source\repos\training\mySampleDotNet\myclass\obj\Debug\net9.0\MyClass.AssemblyInfoInputs.cache
+C:\Users\andagd\source\repos\training\mySampleDotNet\myclass\obj\Debug\net9.0\MyClass.AssemblyInfo.cs
+C:\Users\andagd\source\repos\training\mySampleDotNet\myclass\obj\Debug\net9.0\MyClass.csproj.CoreCompileInputs.cache
+C:\Users\andagd\source\repos\training\mySampleDotNet\myclass\obj\Debug\net9.0\MyClass.dll
+C:\Users\andagd\source\repos\training\mySampleDotNet\myclass\obj\Debug\net9.0\refint\MyClass.dll
+C:\Users\andagd\source\repos\training\mySampleDotNet\myclass\obj\Debug\net9.0\MyClass.pdb
+C:\Users\andagd\source\repos\training\mySampleDotNet\myclass\obj\Debug\net9.0\ref\MyClass.dll

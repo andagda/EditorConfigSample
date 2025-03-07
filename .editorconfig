@@ -1,0 +1,37 @@
+[*.cs]
+# Define what we will treat as local variables
+dotnet_naming_symbols.local_symbol.applicable_kinds = local
+
+# Define the naming style for local variables
+dotnet_naming_style.local_style.capitalization = camel_case
+
+# Create a rule to enforce camelCase for local variables
+dotnet_naming_rule.variables_are_camel_case.severity = error
+dotnet_naming_rule.variables_are_camel_case.symbols = local_symbol
+dotnet_naming_rule.variables_are_camel_case.style = local_style
+
+
+# Define what we will treat as private fields
+dotnet_naming_symbols.private_fields.applicable_kinds = field
+dotnet_naming_symbols.private_fields.applicable_accessibilities = private
+
+# Define the naming style for private fields
+dotnet_naming_style.underscore_prefix_and_camel_case.required_prefix = _
+dotnet_naming_style.underscore_prefix_and_camel_case.capitalization = camel_case
+
+# Create a rule to enforce underscore prefix and camelCase for private fields
+dotnet_naming_rule.private_fields_must_have_underscore_prefix.severity = error
+dotnet_naming_rule.private_fields_must_have_underscore_prefix.symbols = private_fields
+dotnet_naming_rule.private_fields_must_have_underscore_prefix.style = underscore_prefix_and_camel_case
+
+
+# Define what we will treat as classes
+dotnet_naming_symbols.class_symbols.applicable_kinds = class
+
+# Define the naming style for classes
+dotnet_naming_style.pascal_case.capitalization = pascal_case
+
+# Create a rule to enforce PascalCase for class names
+dotnet_naming_rule.classes_must_be_pascal_case.severity = error
+dotnet_naming_rule.classes_must_be_pascal_case.symbols = class_symbols
+dotnet_naming_rule.classes_must_be_pascal_case.style = pascal_case
