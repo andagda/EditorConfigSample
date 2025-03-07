@@ -1,10 +1,12 @@
-﻿using System.Runtime.CompilerServices;
+﻿
+
+using Xunit;
 
 namespace MyTests;
 
 public class unitTest1
 {
-    private string customerNumber;
+    private string customerNumber = "";
 
     [Fact]
     public void Test1()
